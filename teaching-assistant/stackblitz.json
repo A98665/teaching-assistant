@@ -1,0 +1,6 @@
+{
+  "name": "teaching-assistant",
+  "description": "教学辅助系统 - React + TypeScript + Tailwind CSS",
+  "template": "node",
+  "tags": ["react", "typescript", "vite", "tailwindcss"]
+}
